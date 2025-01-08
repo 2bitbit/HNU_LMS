@@ -3,7 +3,7 @@
 ## 功能特色
 TUI，大模型，支持简单的模糊搜索。
 
-![演示视频](https://github.com/2bitbit/HNU_LMS/blob/main/demo/H_LMS.mp4)
+https://github.com/user-attachments/assets/0733157a-815d-4920-b8c9-35a216d4d535
 
 ## 使用教程
 
