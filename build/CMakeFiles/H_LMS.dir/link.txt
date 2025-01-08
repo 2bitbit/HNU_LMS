@@ -1,0 +1,3 @@
+"C:\Program Files\CMake\bin\cmake.exe" -E rm -f CMakeFiles\H_LMS.dir/objects.a
+C:\msys64\mingw64\bin\ar.exe qc CMakeFiles\H_LMS.dir/objects.a @CMakeFiles\H_LMS.dir\objects1.rsp
+C:\msys64\mingw64\bin\g++.exe -g -Wl,--whole-archive CMakeFiles\H_LMS.dir/objects.a -Wl,--no-whole-archive -o D:\Workspace\Vscode\Repos\H_LMS\dist\H_LMS.exe -Wl,--out-implib,libH_LMS.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\H_LMS.dir\linkLibs.rsp

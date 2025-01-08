@@ -1,0 +1,3 @@
+D:/Workspace/Vscode/Repos/H_LMS/build/CMakeFiles/H_LMS.dir
+D:/Workspace/Vscode/Repos/H_LMS/build/CMakeFiles/edit_cache.dir
+D:/Workspace/Vscode/Repos/H_LMS/build/CMakeFiles/rebuild_cache.dir

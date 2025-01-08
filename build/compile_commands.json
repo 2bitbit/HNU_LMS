@@ -1,0 +1,8 @@
+[
+{
+  "directory": "D:/Workspace/Vscode/Repos/H_LMS/build",
+  "command": "C:\\msys64\\mingw64\\bin\\g++.exe -DSQLITECPP_COMPILE_DLL -DSQLITE_ENABLE_COLUMN_METADATA @CMakeFiles/H_LMS.dir/includes_CXX.rsp -g -o CMakeFiles\\H_LMS.dir\\main.cpp.obj -c D:\\Workspace\\Vscode\\Repos\\H_LMS\\main.cpp",
+  "file": "D:/Workspace/Vscode/Repos/H_LMS/main.cpp",
+  "output": "CMakeFiles/H_LMS.dir/main.cpp.obj"
+}
+]
